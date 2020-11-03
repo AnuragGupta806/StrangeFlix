@@ -1,7 +1,7 @@
-# StrangeFlix
+# StrangeFlix #
 On Demand Video Streaming Service
 
-## Basic features:
+## Basic features: ##
 1. An admin panel to control the admin account, the content being shared on the platform and
 users.
 2. User Login/Signup portal with mail verification and also include Social logins like login with
@@ -20,7 +20,7 @@ the right to delete a video or delete a flag.
 10. Like and comment on any video. Comments can be deleted and edited by comment maker.
 11. All users can report a comment if find inappropriate. Admin can delete an inappropriate
 comment.
-## Advanced Features:
+## Advanced Features: ##
 1. It should be highly scalable that is it should handle unlimited users, videos, and categories.
 2. Users can add videos to their favorites list.
 3. Recommend videos based on new releases as well as the category which is most frequently
@@ -29,3 +29,11 @@ watched by user.
 5. Auto play all the videos in a playlist.
 6. The video player can be made advanced with many other features like skip ads, skip +10/-10
 secs, playback rate, quality, turn on/off captions etc.
+
+## Glimpses ##
+![Screenshot (297)](https://user-images.githubusercontent.com/58984405/97810120-90358c80-1c97-11eb-8cee-718905e810e5.png)
+##
+![Screenshot (298)](https://user-images.githubusercontent.com/58984405/97810222-603ab900-1c98-11eb-8d37-a7a420aa752e.png)
+##
+![Screenshot (299)](https://user-images.githubusercontent.com/58984405/97810225-63ce4000-1c98-11eb-856c-be4eb857b226.png)
+##
